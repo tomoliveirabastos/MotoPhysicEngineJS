@@ -1,3 +1,3 @@
-# MotoCirclePhysicEngineJS
+# MotoPhysicEngineJS
 
-https://tomoliveirabastos.github.io/MotoCirclePhysicEngineJS/index.html
+https://tomoliveirabastos.github.io/MotoPhysicEngineJS/index.html
